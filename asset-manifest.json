@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Romi.Finance-clone/static/css/main.85b48219.css",
+    "main.js": "/Romi.Finance-clone/static/js/main.16c0b8b6.js",
+    "static/js/787.08c5a5cc.chunk.js": "/Romi.Finance-clone/static/js/787.08c5a5cc.chunk.js",
+    "index.html": "/Romi.Finance-clone/index.html",
+    "main.85b48219.css.map": "/Romi.Finance-clone/static/css/main.85b48219.css.map",
+    "main.16c0b8b6.js.map": "/Romi.Finance-clone/static/js/main.16c0b8b6.js.map",
+    "787.08c5a5cc.chunk.js.map": "/Romi.Finance-clone/static/js/787.08c5a5cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85b48219.css",
+    "static/js/main.16c0b8b6.js"
+  ]
+}
