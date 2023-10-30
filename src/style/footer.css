@@ -1,0 +1,39 @@
+.footer{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    background-color: #121111;
+}
+.footer-logo{
+ margin: auto;
+ 
+}
+.footer-logo img{
+    width: 70px;
+    display: inline;
+  
+}
+.footer-logo h1{
+    display: inline;
+    font-size: 33px;
+    font-weight: 350;
+    position: relative;
+    bottom: 25px;
+    color: #a7a7a9;
+}
+
+.footer-sicial-link-block{
+    margin: 14px 0;
+}
+.footer-sicial-link-block a{
+    text-decoration: none;
+    margin: 20px 30px;
+}
+.footer-link{
+    padding-bottom: 25px ;
+}
+.footer-link a{
+    text-decoration: none;
+    margin: 20px;
+    color: #a7a7a9;
+}

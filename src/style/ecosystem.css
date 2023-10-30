@@ -1,0 +1,43 @@
+.block{
+    width: 100%;
+    background-color: #151515;;
+}
+.ecosystem{
+    width: 1200px;
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 110px;
+    color: white;
+   
+}
+.ecosystem-card{
+    width: 1200px;
+    display: flex;
+}
+
+.app-card-title{
+    padding: 10px ;
+}
+.app-card{
+    width: 550px;
+    
+    border: 0.1px solid white;
+    border-radius: 4px;
+    margin: 10px;
+}
+.app-card-divider{
+    height: 1px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.app-card-row{
+    margin: 15px;
+}
+.app-card-row .label{
+    display: inline;
+}
+.app-card-row .value{
+    display: inline;
+    float: right;
+}

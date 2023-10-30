@@ -1,0 +1,15 @@
+.block{
+    width: 100%;
+    background-color: #151515;;
+}
+.buy{
+    width: 1200px;
+    margin: auto;
+    color: white;
+}
+
+.home-token-section{
+    width: 1100px;
+    margin: auto;
+    padding-top: 60px;
+}
